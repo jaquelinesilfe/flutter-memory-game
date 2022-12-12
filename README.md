@@ -1,16 +1,16 @@
-# memory
 
-A new Flutter project.
 
-## Getting Started
+# flutter-memory-game
 
-This project is a starting point for a Flutter application.
+## Repositório do projeto integrador V-B - PUC_GO (Dez-2022)
 
-A few resources to get you started if this is your first Flutter project:
+###   :pushpin: Desenvolvimento :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Jogo da Memória :currency_exchange:
+- Disciplina Desenvolvimento de Jogos e Diversidade  :flags:
+- Mobile com framework Flutter :bookmark:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ ![ Geral](https://github.com/jaquelinesilfe/flutter-memory-game/blob/9720101ae75073d95069a2a62fa6d4d3683fb13e/game%20geral.png)
+ ![ Pontuacao](https://github.com/jaquelinesilfe/flutter-memory-game/blob/9720101ae75073d95069a2a62fa6d4d3683fb13e/pontuacao.png)
+
